@@ -1,0 +1,21 @@
+header{
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+main{
+    display: flex;
+}
+
+.menu{
+    margin: 10px;
+    flex: 1;
+    border: 2px solid black;
+}
+
+.content{
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
